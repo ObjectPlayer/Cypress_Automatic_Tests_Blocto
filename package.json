@@ -1,0 +1,17 @@
+{
+  "name": "cypress_automatic_tests_blocto",
+  "version": "1.0.0",
+  "description": "This repository implements automatic tests for Blocto wallet on Flow Blockchain via Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Objectplayer",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  },
+  "dependencies": {
+    "tmpmail": "^1.0.2"
+  }
+}
